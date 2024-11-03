@@ -20,7 +20,7 @@
     "**/*.js",
     ".next/types/**/*.ts",
     ".eslintrc.json",
-    "prettier.config.js"
+    "prettier.config.mjs"
   ],
   "exclude": ["node_modules"]
 }

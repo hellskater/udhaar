@@ -26,8 +26,8 @@
     "@trpc/server": "11.0.0-rc.604",
     "fastify": "^5.0.0",
     "fastify-plugin": "^5.0.1",
-    "fix-esm": "^1.0.1",
     "superjson": "^2.2.1",
+    "@udhaar/db": "workspace:*",
     "zod": "^3.23.8"
   },
   "devDependencies": {
