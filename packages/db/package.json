@@ -26,6 +26,10 @@
     "./fastify": {
       "types": "./dist/fastify/index.d.ts",
       "default": "./dist/fastify/index.js"
+    },
+    "./schema": {
+      "types": "./dist/schema/index.d.ts",
+      "default": "./dist/schema/index.js"
     }
   },
   "keywords": [],
